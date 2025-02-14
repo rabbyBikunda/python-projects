@@ -5,14 +5,14 @@ A collection of small Python projects.
 ## 1 Expense Tracker
 - A simple CLI tool to **track expenses**.
 
-## 2️ News Scraper
+## 2 News Scraper
 - Scrapes the **latest tech news** from Hacker News.
 
-## 3️ Weather App
+## 3 Weather App
 - Fetches **real-time weather** data for a given city.
 
-## 4️ Football Stats Tracker
+## 4 Football Stats Tracker
 - Gets **live football scores** and match stats.
 
-## 5️ Music Genre Predictor
+## 5 Music Genre Predictor
 - Uses **machine learning** to predict song genres.
